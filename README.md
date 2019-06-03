@@ -53,5 +53,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 关于项目详细介绍   请参考以下博客，博客地址为：https://www.cnblogs.com/tzy1997/p/10963403.html
 
+首页效果如下：
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client1.jpg)
 
