@@ -70,6 +70,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client2.png)
 
-![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client3.png)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client3.jpg)
 
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client4.png)
