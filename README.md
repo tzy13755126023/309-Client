@@ -54,9 +54,12 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 关于项目详细介绍   请参考以下博客，博客地址为：https://www.cnblogs.com/tzy1997/p/10963403.html
 
 部分截图如下：
-
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/login-Client.png)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/register-Client.png)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/mine-Client.png)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client5.png)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/我的收藏.png)
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client1.jpg)
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client2.png)
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client3.png)
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client4.png)
-![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client5.png)
