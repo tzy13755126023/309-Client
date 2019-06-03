@@ -56,5 +56,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 部分截图如下：
 
 ![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client1.jpg)
-![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client1.jpg)
-![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client1.jpg)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client2.jpg)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client3.jpg)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client4.jpg)
+![Image](https://github.com/tzy13755126023/309-Client/blob/master/images/client5.jpg)
